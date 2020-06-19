@@ -1,1 +1,3 @@
-# certmerchant
+# CertMerchant
+
+Just a small service to assist in conversion of PFX files to PEM...
